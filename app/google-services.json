@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "892854254220",
+    "firebase_url": "https://helmetcontrol.firebaseio.com",
+    "project_id": "helmetcontrol",
+    "storage_bucket": "helmetcontrol.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892854254220:android:b8a987693e15f0bf",
+        "android_client_info": {
+          "package_name": "com.smarthelm.prajwal.smarthelmctrl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892854254220-o98j8qg83l7vdon51635n1rt836pc0v0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smarthelm.prajwal.smarthelmctrl",
+            "certificate_hash": "24628567123eba0bac5618a2c634c9a47a5054e9"
+          }
+        },
+        {
+          "client_id": "892854254220-lpea4vpa9pvmteebe43sba347g1snuvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5QQOuHSExwi4lHt8PXfhkAr6RQ_a6mTI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892854254220-lpea4vpa9pvmteebe43sba347g1snuvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

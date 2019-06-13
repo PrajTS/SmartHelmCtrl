@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Smart Helmet</string>
+    <string name="my_helmets">My Helmets</string>
+    <string name="active_helmets">Active Helmets</string>
+</resources>
